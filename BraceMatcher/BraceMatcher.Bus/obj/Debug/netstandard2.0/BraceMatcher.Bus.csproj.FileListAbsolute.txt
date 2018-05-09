@@ -1,0 +1,8 @@
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\bin\Debug\netstandard2.0\BraceMatcher.Bus.deps.json
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\bin\Debug\netstandard2.0\BraceMatcher.Bus.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\bin\Debug\netstandard2.0\BraceMatcher.Bus.pdb
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\obj\Debug\netstandard2.0\BraceMatcher.Bus.csproj.CoreCompileInputs.cache
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\obj\Debug\netstandard2.0\BraceMatcher.Bus.AssemblyInfoInputs.cache
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\obj\Debug\netstandard2.0\BraceMatcher.Bus.AssemblyInfo.cs
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\obj\Debug\netstandard2.0\BraceMatcher.Bus.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Bus\obj\Debug\netstandard2.0\BraceMatcher.Bus.pdb

@@ -1,0 +1,16 @@
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Tests.deps.json
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Tests.runtimeconfig.json
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Tests.runtimeconfig.dev.json
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Tests.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Tests.pdb
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Bus.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\bin\Debug\netcoreapp2.0\BraceMatcher.Bus.pdb
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.csproj.CoreCompileInputs.cache
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.AssemblyInfoInputs.cache
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.AssemblyInfo.cs
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.csproj.CopyComplete
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.dll
+c:\Users\dtfir\BraceMatcher\BraceMatcher.Tests\obj\Debug\netcoreapp2.0\BraceMatcher.Tests.pdb
